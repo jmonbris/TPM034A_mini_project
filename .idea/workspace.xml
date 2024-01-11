@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76fda548-b867-4850-a066-ce13eda7ec97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/TPM034A_mini_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TPM034A_mini_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mini-project 2 - R&amp;D Innovation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Mini-project 2 - R&amp;D Innovation.ipynb" afterDir="false" />
     </list>
@@ -28,7 +26,6 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/anned/OneDrive/Documents/GitHub/TPM034A_mini_project&quot;,
@@ -55,6 +52,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\anned\OneDrive\Documents\GitHub\TPM034A_mini_project\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.10 (TPM034A_mini_project) (2)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -83,12 +81,18 @@
       <workItem from="1703165221592" duration="660000" />
       <workItem from="1703168748764" duration="612000" />
       <workItem from="1704538266017" duration="3550000" />
-      <workItem from="1704717955347" duration="3939000" />
-      <workItem from="1704801719956" duration="2791000" />
+      <workItem from="1704871123953" duration="455000" />
+      <workItem from="1704871629304" duration="288000" />
+      <workItem from="1704871948860" duration="2801000" />
+      <workItem from="1704913971672" duration="1989000" />
+      <workItem from="1704962358703" duration="1176000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TPM034A_mini_project$Run.coverage" NAME="Run Coverage Results" MODIFIED="1704791769027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
   </component>
 </project>
